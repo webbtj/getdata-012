@@ -25,4 +25,4 @@ This software provides two key functions for creating tidy data from the provide
 
 ### Other Notes
 * The code is heavily commented to both explain the operations and to identify which requirements are met by each piece of code.
-* For readability, several of the operations have been broken out to separate functions. This was not a course requirement but should make reading and evaaluation easier.
+* For readability, several of the operations have been broken out to separate functions. This was not a course requirement but should make reading and evaluation easier.
