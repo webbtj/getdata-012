@@ -97,6 +97,3 @@ tidy_averages <- function(){
 	#	and columns for each measurement, as well as columns for activity and subject
 	dcast(melted, activity + subject ~ variable,mean)
 }
-
-#perform the main, averaging function
-tidy_averages()
