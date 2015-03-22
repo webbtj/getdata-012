@@ -26,3 +26,7 @@ This software provides two key functions for creating tidy data from the provide
 ### Other Notes
 * The code is heavily commented to both explain the operations and to identify which requirements are met by each piece of code.
 * For readability, several of the operations have been broken out to separate functions. This was not a course requirement but should make reading and evaluation easier.
+
+### Other Files
+* `codebook.md` - details on the variables included in the dataframe, including name, type, precision (where applicable), expected range/values, and description
+* `output/tidy_averages.txt` - example output of `tidy_averages()` function, written using R's `write.table()` function with `row.names` set to `FALSE`
